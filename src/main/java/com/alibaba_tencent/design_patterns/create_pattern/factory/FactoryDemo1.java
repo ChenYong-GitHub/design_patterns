@@ -1,4 +1,4 @@
-package com.alibaba_tencent.design_patterns.factory;
+package com.alibaba_tencent.design_patterns.create_pattern.factory;
 
 public class FactoryDemo1 {
 
